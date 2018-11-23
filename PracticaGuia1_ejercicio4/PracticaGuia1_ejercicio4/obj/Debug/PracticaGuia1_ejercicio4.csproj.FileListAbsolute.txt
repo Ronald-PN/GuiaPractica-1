@@ -1,0 +1,5 @@
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\PracticaGuia1_ejercicio4\PracticaGuia1_ejercicio4\bin\Debug\PracticaGuia1_ejercicio4.exe.config
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\PracticaGuia1_ejercicio4\PracticaGuia1_ejercicio4\bin\Debug\PracticaGuia1_ejercicio4.exe
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\PracticaGuia1_ejercicio4\PracticaGuia1_ejercicio4\bin\Debug\PracticaGuia1_ejercicio4.pdb
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\PracticaGuia1_ejercicio4\PracticaGuia1_ejercicio4\obj\Debug\PracticaGuia1_ejercicio4.exe
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\PracticaGuia1_ejercicio4\PracticaGuia1_ejercicio4\obj\Debug\PracticaGuia1_ejercicio4.pdb
